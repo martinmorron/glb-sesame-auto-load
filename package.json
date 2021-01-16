@@ -1,0 +1,22 @@
+{
+  "name": "glb-sesame-auto-load",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinmorron/glb-sesame-auto-load.git"
+  },
+  "author": "Martin Morrongiello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinmorron/glb-sesame-auto-load/issues"
+  },
+  "homepage": "https://github.com/martinmorron/glb-sesame-auto-load#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
