@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/martinmorron/glb-sesame-auto-load#readme",
   "dependencies": {
+    "jsonfile": "^6.1.0",
     "puppeteer": "^5.5.0"
   }
 }
